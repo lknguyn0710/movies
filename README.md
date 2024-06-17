@@ -1,2 +1,2 @@
 # movies
-Analyze relationship between genres, budget, revenue, cast size
+Using SAS to analyze relationship among genres, budget, revenue, cast size
